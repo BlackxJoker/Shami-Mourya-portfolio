@@ -69,11 +69,32 @@ body {
 .heading{
     color: var(--primary-color);
 }
+.container{
+    text-align: center;
+    background-color: var(--secondary-color);
+    border-radius: 15px;
+    padding: 12px;
+    margin: 20px;
+ }
+ .offwhite{
+    background-color: var(--off-white);
+ }
+ .container h1{
+    color: #4b5563;
+ }
+ .container p{
+    color: var(--primary-color);
+ }
 
-
-
-
-
+ .btn{
+    background-color: var(--primary-color);
+    border-radius: 20px;
+    padding: 8px 10px;
+    color: #fff;
+ }
+  .fa-solid{
+    padding: 0px 5px;
+  }
  /* footer-section */
  .footer{
     background-color: var(--primary-color);
