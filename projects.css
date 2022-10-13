@@ -59,8 +59,45 @@ body {
     color: #fff;
     padding: 2px 2px;
 }
-
-
+/* header */
+.header{
+    text-align: center;
+    color: #4b5563;
+    font-weight: bold;
+    padding: 50px;
+}
+.heading{
+    color: var(--primary-color);
+}
+ /* Projects */
+ .projects{
+    list-style: none;
+    text-align: center;
+ }
+ .container{
+    background-color: var(--secondary-color);
+    border-radius: 15px;
+    padding: 12px;
+    margin: 20px;
+ }
+ .offwhite{
+    background-color: var(--off-white);
+ }
+ .btn{
+    background-color: var(--primary-color);
+    border-radius: 20px;
+    padding: 8px 10px;
+    color: #fff;
+ }
+ .btn1{
+    background-color: #fff;
+    color: var(--primary-color);
+    border-radius: 20px;
+    padding: 8px 10px;
+ }
+ .container a{
+    padding: 12px 5px;
+ }
 
 /* footer-section */
 .footer{
