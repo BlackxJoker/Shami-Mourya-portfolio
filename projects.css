@@ -98,6 +98,12 @@ body {
  .container a{
     padding: 12px 5px;
  }
+ .container h1{
+    color: #4b5563;
+ }
+ .container p{
+    color: var(--primary-color);
+ }
 
 /* footer-section */
 .footer{
