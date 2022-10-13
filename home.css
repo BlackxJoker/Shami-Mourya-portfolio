@@ -6,18 +6,14 @@
     --off-white: #f1f5f9;
 
 }
-*{
-    padding: 0;
-    margin: 0;
+body{
     font-family:'Poppins', sans-serif;
+    margin: 0px auto;
+    max-width: 85%;
+    width: 100%;
 }
-.navbar{
-    background-color: var(--primary-color);
-}
-.title{
- color: white;
-}
+
 .navigation-list{
-    text-decoration: none;
+    list-style: none;
     display: inline;
 }
