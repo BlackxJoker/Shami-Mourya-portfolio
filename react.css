@@ -13,7 +13,7 @@ body {
 
 .heading h2 {
     color: #4b5563;
-    margin-top: 5rem;
+    margin-top: 3rem;
     font-weight: bolder;
 }
 
@@ -22,10 +22,15 @@ body {
 }
 
 .about {
+    border-radius: 5px;
     background-color: #5451A6;
     color: #fff;
     padding: 5px 20px;
     margin: 2rem 0;
+}
+.image{
+    margin-top: 1.5rem;
+    text-align: center;
 }
 
 .publish {
